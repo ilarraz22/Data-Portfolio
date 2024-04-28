@@ -6,4 +6,4 @@ Welcome to my portfolio, I am a data scientist seeking to improve and grow my sk
 Feel free to look around the branches and explore diifferent projects.
 
 List of Projects:
-1. Top 10000 IMDB Movies
+1. Top 1000 IMDB Movies
